@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layer-list xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/btn_next"
+        android:drawable="@drawable/ic_backarrow"
+        android:width="@dimen/margin_basic4"
+        android:height="@dimen/margin_basic4"
+        />
+
+
+</layer-list>

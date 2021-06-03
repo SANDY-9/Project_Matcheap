@@ -1,0 +1,72 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Theme.Project_SeoulMatCheap" parent="Theme.MaterialComponents.DayNight.NoActionBar">
+        <!-- Primary brand color. -->
+        <item name="colorPrimary">@color/main</item>
+        <item name="colorPrimaryVariant">#e14632</item>
+        <item name="colorOnPrimary">@color/white</item>
+        <item name="android:textColorPrimary">@color/white</item>
+        <!-- Secondary brand color. -->
+        <item name="colorSecondary">@color/main</item>
+        <item name="colorSecondaryVariant">@color/main</item>
+        <item name="colorOnSecondary">@color/white</item>
+        <!-- Status bar color. -->
+        <item name="android:statusBarColor" tools:targetApi="l">?attr/colorPrimaryVariant</item>
+        <!-- Customize your theme here. -->
+        <item name="android:splitMotionEvents">false</item>
+    </style>
+
+    <style name="tab_layout" parent="@android:style/TextAppearance.Widget.TabWidget">
+        <item name="android:textSize">12sp</item>
+        <item name="android:splitMotionEvents">false</item>
+    </style>
+
+    <!--CATEGORY_01_02-->
+    <style name="Transparent" parent="@style/Theme.AppCompat.NoActionBar">
+        <item name="android:windowNoTitle">true</item>
+        <item name="android:windowBackground">@android:color/transparent</item>
+        <item name="android:colorBackgroundCacheHint">@null</item>
+        <item name="android:windowIsTranslucent">true</item>
+        <item name="android:windowAnimationStyle">@android:style/Animation</item>
+        <item name="android:backgroundDimEnabled">true</item>
+        <item name="android:splitMotionEvents">false</item>
+    </style>
+
+    <!--CATEGORY_01_01-->
+    <style name="Divider">
+        <item name="android:layout_width">0dp</item>
+        <item name="android:layout_height">match_parent</item>
+        <item name="android:background">?android:attr/listDivider</item>
+        <item name="android:splitMotionEvents">false</item>
+    </style>
+
+    <style name="theme_splash" parent="Theme.Project_SeoulMatCheap">
+        <item name="android:statusBarColor">@android:color/white</item>
+        <item name="android:windowLightStatusBar">true</item>
+        <item name="android:splitMotionEvents">false</item>
+    </style>
+
+    <!--FILTER-->
+    <style name="filterBottomSheetTheme" parent="Theme.MaterialComponents.Light.BottomSheetDialog">
+        <item name="bottomSheetStyle">@style/filterBottomSheetStyle</item>
+        <item name="android:splitMotionEvents">false</item>
+    </style>
+    <style name="filterBottomSheetStyle" parent="Widget.Design.BottomSheet.Modal">
+        <item name="android:background">@null</item>
+        <item name="android:splitMotionEvents">false</item>
+    </style>
+
+    <style name="custom_stars" parent="Widget.AppCompat.RatingBar">
+        <item name="android:progressDrawable">@drawable/custom_star</item>
+        <item name="android:numStars">5</item>
+        <item name="android:splitMotionEvents">false</item>
+
+    </style>
+
+    <style name="CollapsingToolbar.TitleText" parent="TextAppearance.Design.CollapsingToolbar.Expanded">
+        <item name="android:textColor">#000000</item>
+        <item name="android:splitMotionEvents">false</item>
+    </style>
+
+
+</resources>
