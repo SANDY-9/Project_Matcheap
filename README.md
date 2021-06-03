@@ -1,2 +1,2 @@
 # 서울맛칩
-<img src="./img/screenshot.png">
+<img src="./img/mockup.png">
