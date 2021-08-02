@@ -1,7 +1,7 @@
 # 서울맛칩
 서울시에서 선정한 착한가격업소 정보앱(App) 서비스
 
-<img src="./img/mockup.png">
+<img src="./img/img.gif">
 
 
 ## 주요기능
