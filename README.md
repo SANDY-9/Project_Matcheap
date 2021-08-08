@@ -3,6 +3,7 @@
 
 <img src="./img/img.gif">
 
+</br>
 
 ## 개발목표
 1. **네이버 지도 API** 사용과 **GPS** 연동
