@@ -42,5 +42,5 @@
 ## Links
 + 프로젝트 팀 개발 노션 페이지 : [링크](https://reflective-goose-443.notion.site/fb5211c06c454920b16db11a16ce7707?pvs=4)</br>
 + 서울맛칩(1.0) 시연영상 : [보러가기](https://drive.google.com/file/d/1hn-nxNK-qp2pk6rj4MP51ntXwZqwFqvV/view)</br>
-+ 서울맛칩 리팩토링(2.0) 개발 버전 : [서울맛칩 리팩토링 코드 보러가기](https://github.com/SANDY-9/Project_SeoulMatcheap2.0)</br>
++ 서울맛칩 리팩토링(2.0) 버전 : [서울맛칩 리팩토링 코드 보러가기](https://github.com/SANDY-9/Project_SeoulMatcheap2.0)</br>
 </br>
